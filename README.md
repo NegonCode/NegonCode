@@ -29,9 +29,7 @@ Actualmente curso un Máster en IA y contribuyo a proyectos de desarrollo web en
 
 ## Proyectos
 
-**Modelo de predicción de cáncer de mama** — clasificador de machine learning para estimar probabilidad diagnóstica a partir de datos clínicos.
-
-(https://github.com/NegonCode/wisconsin-breast-cancer-classifier)
+**Modelo de predicción de cáncer de mama** — clasificador de machine learning para estimar probabilidad diagnóstica a partir de datos clínicos. *(próximamente público)*
 
 ## Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nerea-gonz%C3%A1lez-a8a41337a)
